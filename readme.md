@@ -1,5 +1,7 @@
 # GitHub Copilot Advanced Hackathon Challenge Pack
 
+![Repository QR Code](repo-qr-code.png)
+
 ## Purpose
 
 This hackathon is designed for participants who already had hands-on sessions with GitHub Copilot and are ready for a more open-ended challenge.
