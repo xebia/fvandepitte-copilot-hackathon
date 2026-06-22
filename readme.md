@@ -1,4 +1,4 @@
-# GitHub Copilot Advanced Hackathon Challenge Pack
+# GitHub Copilot Hackathon Challenge Pack
 
 ![Repository QR Code](repo-qr-code.png)
 
