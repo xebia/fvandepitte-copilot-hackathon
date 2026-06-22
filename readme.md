@@ -19,6 +19,8 @@ The goal is not only to build a working application, but also to learn how to us
 
 The challenges are divided into foundation and advanced levels, with both fun and business-oriented topics.
 
+As an alternative to greenfield projects, participants can also choose a legacy/refactoring track using the Gilded Rose Refactoring Kata.
+
 ---
 
 ## Common Requirements for Every Challenge
@@ -90,6 +92,10 @@ Examples:
 | Business | [Intelligent Support Operations Hub](challenges/advanced/advanced-business-1-intelligent-support-operations-hub.md) |
 | Business | [Developer Self-Service Portal](challenges/advanced/advanced-business-2-developer-self-service-portal.md) |
 
+## Alternative Refactoring Track
+
+- [Gilded Rose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) (alternative to greenfield projects)
+
 
 ---
 
@@ -105,9 +111,20 @@ Explain that teams should focus on more than just code generation. The goal is t
 2. Copy the challenge they want to do to that folder.
 3. Get started.
 
+### Preferred Way of Working (Gilded Rose Alternative)
+
+1. Create a new folder for your team work.
+2. Clone [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) into that folder.
+3. Pick one language folder (for example: `python`, `TypeScript`, `csharp.xUnit`, `Java`).
+4. Read the requirements first: [GildedRoseRequirements.md](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.md).
+5. Run the existing tests and confirm the baseline before changing code.
+6. Implement support for `Conjured` items and improve code quality through small, safe refactoring steps.
+7. Keep constraints from the kata: do not alter the `Item` class or `Items` property.
+8. Work in your own repository/fork and do not submit your solution as a PR to the upstream kata repository.
+
 Suggested framing:
 
-1. Pick a challenge.
+1. Pick a challenge track (greenfield challenge or Gilded Rose kata).
 2. Create a repository.
 3. Break the work into issues.
 4. Add Copilot and agent instructions early.
