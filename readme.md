@@ -19,7 +19,7 @@ The goal is not only to build a working application, but also to learn how to us
 - Creating documentation that helps both humans and AI coding agents.
 - Using Copilot Chat, Copilot Edits, agent mode, custom instructions, and issue-driven development.
 
-The challenges are divided into foundation and advanced levels, with both fun and business-oriented topics.
+The challenges are divided into foundation, advanced, and elite levels, with both fun and business-oriented topics. The elite level is meant for teams that found the advanced challenges too easy, or for sessions where the pace of tooling evolution calls for something extra hard.
 
 As an alternative to greenfield projects, participants can also choose a legacy/refactoring track using the Gilded Rose Refactoring Kata.
 
@@ -93,6 +93,15 @@ Examples:
 | Fun | [Escape Room Builder & Solver](challenges/advanced/advanced-fun-2-escape-room-builder-and-solver.md) |
 | Business | [Intelligent Support Operations Hub](challenges/advanced/advanced-business-1-intelligent-support-operations-hub.md) |
 | Business | [Developer Self-Service Portal](challenges/advanced/advanced-business-2-developer-self-service-portal.md) |
+
+## Elite Challenges
+
+Extra hard. Pick these only with a full day and a confident team.
+
+| Type | Challenge |
+|---|---|
+| Fun | [Card Battler Engine](challenges/elite/elite-fun-1-card-battler-engine.md) |
+| Business | [Event Budget War Room](challenges/elite/elite-business-1-event-budget-war-room.md) |
 
 ## Alternative Refactoring Track
 
@@ -231,5 +240,12 @@ If participants struggle to choose, recommend:
 
 - Fun: Quiz Night Engine
 - Business: Developer Self-Service Portal
+
+## Elite
+
+- Fun: Card Battler Engine
+- Business: Event Budget War Room
+
+Recommend the elite challenges only to teams that have already completed an advanced challenge comfortably, or that explicitly ask for the hardest option.
 
 These challenges provide a good balance of familiar domain logic, clear rules, meaningful tests, and realistic Copilot usage.
